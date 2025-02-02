@@ -1,9 +1,6 @@
 import shutil
 import os
 from datetime import datetime
-import ctypes
-import sys
-import logging
 
 rutaOrigen = "/Users/Hector Estrada/Desktop/origen/prueba.txt"
 rutaDestino = "/Users/Hector Estrada/Desktop/destino/prueba.txt"
