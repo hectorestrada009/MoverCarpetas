@@ -21,5 +21,5 @@ set "nuevo_nombre=respaldoTEMPO_%fecha%_%hora%"
 :: Mover la carpeta y cambiarle el nombre
 move "%origen%" "%destino%\%nuevo_nombre%"
 
-echo Carpeta movida y renombrada a: %destino%\%nuevo_nombre%
+::echo Carpeta movida y renombrada a: %destino%\%nuevo_nombre%
 pause
