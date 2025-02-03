@@ -22,4 +22,3 @@ set "nuevo_nombre=respaldoTEMPO_%fecha%_%hora%"
 move "%origen%" "%destino%\%nuevo_nombre%"
 
 ::echo Carpeta movida y renombrada a: %destino%\%nuevo_nombre%
-pause
